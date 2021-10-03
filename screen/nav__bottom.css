@@ -1,0 +1,105 @@
+.nav__bottom {
+  margin-top: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 370px;
+  border-bottom: 1px solid rgb(233, 236, 239);
+}
+.nav__bottom__column {
+  display: flex;
+}
+.nav__bottom__grey-box {
+  width: 135px;
+  height: 37px;
+  background-color: rgb(138, 138, 138);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 20px;
+  margin-right: 17px;
+}
+.nav__bottom__grey-box span {
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: 15px;
+}
+.nav__bottom__grey-box div i {
+  color: white;
+  font-size: 11px;
+  margin-right: 15px;
+}
+.nav__bottom__grey-bar {
+  height: 37px;
+  width: 1px;
+  background-color: rgb(222, 226, 230);
+  margin-right: 17px;
+}
+.nav__bottom__white-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  border: 1px solid rgb(233, 236, 239);
+  height: 37px;
+  margin-right: 11px;
+}
+.nav__bottom__white-box span {
+  font-size: 15px;
+}
+.nav__bottom__white-box1 {
+  width: 88px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+.nav__bottom__white-box2 {
+  width: 132px;
+}
+.nav__bottom__white-box3 {
+  width: 107px;
+}
+.nav__bottom__white-box3 i {
+  position: relative;
+  top: -2px;
+  margin-left: 5px;
+  color: rgb(210, 153, 18);
+}
+.nav__bottom__white-box4 i {
+  color: rgb(217, 216, 202);
+}
+
+.nav__bottom__white-box4 {
+  width: 119px;
+}
+.nav__bottom__white-box5 {
+  width: 114px;
+}
+.nav__bottom__white-box5 i {
+  color: rgb(255, 214, 63);
+}
+.nav__bottom__white-box6 i {
+  color: rgb(126, 200, 21);
+}
+.nav__bottom__white-box4 i,
+.nav__bottom__white-box5 i,
+.nav__bottom__white-box6 i {
+  margin-left: 5px;
+}
+.nav__bottom__white-box6 {
+  width: 104px;
+}
+.nav__bottom__white-box7 {
+  width: 126px;
+}
+.nav__bottom__column:last-child div {
+  width: 37px;
+  height: 37px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgb(233, 236, 239);
+  border-radius: 50%;
+}

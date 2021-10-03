@@ -1,0 +1,121 @@
+.person-lecture-list {
+  margin-top: 60px;
+}
+
+.person-lecture-list__header {
+  font-size: 25px;
+}
+
+.person-lecture-list__img {
+  width: 231px;
+  height: 151px;
+  background-color: #62d9f9;
+}
+
+.person-lecture-list__title {
+  font-size: 17px;
+  font-weight: 500;
+  margin-top: 14px;
+  margin-bottom: 32px;
+}
+
+.person-lecture-list__information div {
+  margin-bottom: 10px;
+}
+
+.person-lecture-list__teacher {
+  color: #a3a3a3;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.person-lecture-list__star {
+  color: #fdcc11;
+  font-size: 13px;
+}
+
+.person-lecture-list__reputation i {
+  margin-right: -5px;
+}
+
+.person-lecture-list__reputation span {
+  margin-left: 1px;
+}
+
+.person-lecture-list__reputation span {
+  font-size: 10px;
+}
+
+.person-lecture-list__price {
+  color: #185cbe;
+  font-weight: 700;
+}
+
+.person-lecture-list__card-list {
+  margin-top: 30px;
+  display: flex;
+  position: relative;
+}
+
+.person-lecture-list__card {
+  margin-right: 7px;
+}
+
+.person-lecture-list__number {
+  font-size: 13px;
+  width: 56px;
+  height: 25px;
+  background-color: #f6d5ea;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3px;
+  color: #444444;
+}
+.person-lecture-list__img1 {
+  background-color: #88a1f9;
+}
+.person-lecture-list__img2 {
+  background-color: #5e1d12;
+}
+.person-lecture-list__img3 {
+  background-color: #ffe700;
+}
+.person-lecture-list__img4 {
+  background-color: #90c53f;
+}
+.person-lecture-list__direction-btn {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  border: 1px solid #d4d4d4;
+  background-color: #ffffff;
+  opacity: 0.7;
+}
+.person-lecture-list__direction-btn__left {
+  position: absolute;
+  left: -25px;
+  top: 135px;
+}
+.person-lecture-list__direction-btn__right {
+  position: absolute;
+  right: -25px;
+  top: 135px;
+}
+.person-lecture-list__header__green {
+  color: #1dc078;
+}
+.person-lecture-list__header__icon {
+  font-size: 14px;
+  margin-left: 10px;
+  position: relative;
+  top: -3px;
+}
+.person-lecture-list__header__column:last-child {
+  font-size: 15px;
+  color: #9d9d9d;
+  margin-top: 10px;
+}

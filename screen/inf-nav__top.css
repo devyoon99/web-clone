@@ -1,0 +1,76 @@
+.inf-nav__top {
+  display: flex;
+  padding: 16px 370px;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: white;
+  z-index: 1;
+}
+.inf-circle-img {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+.inf-nav__top__column span {
+  font-size: 16px;
+}
+.inf-nav__top__column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.inf-nav__top__column:first-child span {
+  margin-right: 45px;
+  color: rgb(0, 10, 18);
+}
+.inf-logo {
+  width: 104;
+  height: 19;
+  margin-right: 45px;
+  position: relative;
+  top: -4px;
+}
+.nav__search-box {
+  width: 178px;
+  height: 38px;
+  background-color: rgb(246, 246, 246);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.nav__search-box i {
+  margin-right: 16px;
+  border-radius: 2%;
+}
+.nav__pencil-green-box {
+  background-color: rgb(0, 196, 113);
+  padding: 7px;
+  border-radius: 10%;
+}
+.nav__pencil-green-box i,
+.nav__pencil-green-box span {
+  color: white;
+}
+
+.margin-right-17 {
+  margin-right: 17px;
+}
+.inf-nav__top__column:last-child > i {
+  margin-right: 22px;
+  font-size: 20px;
+}
+.inf-nav__top__column:last-child {
+  position: relative;
+}
+.nav__red-dot {
+  position: absolute;
+  top: 9px;
+  right: 43px;
+  background-color: rgb(255, 91, 22);
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+}

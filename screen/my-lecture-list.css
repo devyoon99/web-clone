@@ -1,0 +1,94 @@
+.my-lecture-list {
+  margin-top: 64px;
+}
+
+.my-lecture-list__column:first-child span {
+  font-size: 25px;
+  font-weight: 700;
+  margin-right: 8px;
+}
+
+.my-lecture-list__column:first-child i {
+  position: relative;
+  top: -3px;
+}
+
+.my-lecture-list__column:first-child {
+  margin-bottom: 25px;
+}
+
+.my-lecture-box {
+  width: 565px;
+  height: 113px;
+  display: flex;
+  border: 1px solid #dedede;
+}
+
+.my-lecture-img {
+  width: 173px;
+  height: 113px;
+  background-color: #fd654e;
+}
+
+.my-lecture-title {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 19px;
+  margin-left: 14px;
+  margin-bottom: 35px;
+}
+
+.my-lecture-information {
+  display: flex;
+}
+
+.my-lecture-information__text {
+  display: flex;
+  margin-left: 14px;
+}
+
+.my-lecture-information__text div:nth-child(2) {
+  width: 1px;
+  height: 18px;
+  background-color: #dedede;
+}
+
+.my-lecture-information__text > div {
+  margin-right: 15px;
+}
+
+.my-lecture-information__btn {
+  width: 85px;
+  height: 30px;
+  background-color: #1dc078;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  color: white;
+  font-size: 15px;
+  position: relative;
+  right: -15px;
+}
+.my-lecture-information__btn span {
+  margin-right: 5px;
+}
+.my-lecture-information__bar {
+  width: 265px;
+  height: 1px;
+  background-color: #1dc078;
+  margin-left: 14px;
+  margin-top: 10px;
+}
+.my-lecture-information__bar__grey {
+  background-color: #dedede;
+}
+.my-lecture-list__column:last-child {
+  display: flex;
+}
+.my-lecture-box__left {
+  margin-right: 42px;
+}
+.my-lecture-img__grey {
+  background-color: #ececec;
+}

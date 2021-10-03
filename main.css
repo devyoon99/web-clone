@@ -1,0 +1,14 @@
+@import "reset.css";
+@import "screen/inf-nav__top.css";
+@import "screen/banner.css";
+@import "screen/nav__bottom.css";
+@import "screen/search-box.css";
+@import "screen/my-lecture-list.css";
+@import "screen/person-lecture-list.css";
+
+.inf {
+  margin: 0 370px;
+}
+body {
+  height: 200vh;
+}
